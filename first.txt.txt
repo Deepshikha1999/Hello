@@ -1,2 +1,6 @@
 hello world
 how are you
+<<<<<<< HEAD
+=======
+i m fine
+>>>>>>> 33f594d074e7009d2046daea88e5bc8edd3fc15d
